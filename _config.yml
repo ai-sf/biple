@@ -1,7 +1,7 @@
 # Site settings
 title: "BiPLE18"
 description: "Biomedical Physics Lombard Event 2018"
-url: "http://ai-sf.it/biple/"
+url: "https://ai-sf.it/biple"
 destination: ../site/
 locale: "it"
 

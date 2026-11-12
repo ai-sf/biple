@@ -266,7 +266,7 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "Per chi non è ancora membro AISF la registrazione all'evento comprenderà, al costo di 5 euro (10 euro per gli studenti di dottorato), l'iscrizione all'Associazione per l'anno 2017/2018. Per info consultare <a href='http://ai-sf.it/iscrizione/' target='_blank'>questa pagina</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
+    - text: "Per chi non è ancora membro AISF la registrazione all'evento comprenderà, al costo di 5 euro (10 euro per gli studenti di dottorato), l'iscrizione all'Associazione per l'anno 2017/2018. Per info consultare <a href='https://ai-sf.it/iscrizione/' target='_blank'>questa pagina</a>. La quota di iscrizione all'AISF include la membership IAPS (International Association of Physics Students) di cui AISF è National Committee per l'Italia."
     - text: "Sono disponibili in totale 54 posti:"
       subpoints:
         - text: "<b>40</b> con alloggio in Pavia, con quota di <b>100</b> euro;"
